@@ -73,4 +73,4 @@ Python, pandas, scikit-learn, matplotlib e Jupyter Notebook.
 
 ## Autor
 
-Seu nome aqui
+Joao Pedro Lima Barbosa 
